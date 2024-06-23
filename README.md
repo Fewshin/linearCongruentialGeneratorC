@@ -1,2 +1,2 @@
 # linearCongruentialGeneratorC
-My implementation of a LCG in C. This is not a library, the purpose is to help my understanding of PRNGs.
+My implementation of a LCG in C. This is not a library, the purpose is to help my understanding of PRNGs. This algo is not Cryptographically Secure. 
